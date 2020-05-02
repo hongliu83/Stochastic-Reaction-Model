@@ -1,2 +1,2 @@
 # stochastic-reaction-model
-Stochastic Reaction Model
+The codes for reaction model
